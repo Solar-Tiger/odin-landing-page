@@ -9,11 +9,6 @@ a {
   text-decoration: none;
 }
 
-.container {
-  display: flex;
-  flex-direction: column;
-}
-
 .main-content-one {
   display: flex;
   flex-direction: column;
@@ -188,7 +183,7 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 125px;
+  height: 100px;
   color: white;
   background: #1f2937;
 }
